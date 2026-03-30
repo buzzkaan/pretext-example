@@ -1,0 +1,10 @@
+{
+  "name": "buzzka",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./scripts/serve.mjs 4173",
+    "test": "node --test"
+  }
+}
